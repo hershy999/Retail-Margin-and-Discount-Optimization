@@ -1,0 +1,53 @@
+{
+  "name": "Retail Margin Dark Theme",
+  "dataColors": [
+    "#DEBAAC",
+    "#3C4763",
+    "#18273E",
+    "#573A34",
+    "#777F92",
+    "#8C929E",
+    "#5F6879",
+    "#D9D9E3"
+  ],
+  "background": "#18273E",
+  "foreground": "#FBFBF9",
+  "tableAccent": "#DEBAAC",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#3C4763" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#5F6879" } },
+            "radius": 4
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#FBFBF9" } },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#18273E" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

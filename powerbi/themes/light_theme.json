@@ -1,0 +1,53 @@
+{
+  "name": "Retail Margin Light Theme",
+  "dataColors": [
+    "#18273E",
+    "#3C4763",
+    "#DEBAAC",
+    "#573A34",
+    "#777F92",
+    "#8C929E",
+    "#5F6879",
+    "#D9D9E3"
+  ],
+  "background": "#FBFBF9",
+  "foreground": "#18273E",
+  "tableAccent": "#DEBAAC",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#D1D4D9" } },
+            "radius": 4
+          }
+        ],
+        "title": [
+          {
+            "show": true,
+            "fontColor": { "solid": { "color": "#18273E" } },
+            "fontSize": 12,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#FBFBF9" } },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

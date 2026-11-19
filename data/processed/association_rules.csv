@@ -1,0 +1,343 @@
+antecedents,consequents,support,confidence,lift
+"Binney & Smith Highlighters, Water Color, Enermax Memory Card, USB","Office Star Bag Chairs, Set of Two",0.000474,1.0,351.42
+"Office Star Bag Chairs, Set of Two","Binney & Smith Highlighters, Water Color, Enermax Memory Card, USB",0.000474,0.1667,351.42
+"Hewlett Copy Machine, Color, Hon Executive Leather Armchair, Black","Office Star Rocking Chair, Set of Two",0.000474,1.0,301.21
+"Hewlett Copy Machine, Color, Stanley Sketch Pad, Water Color","Office Star Rocking Chair, Set of Two",0.000474,1.0,301.21
+"Hon Executive Leather Armchair, Black, Stanley Sketch Pad, Water Color","Office Star Rocking Chair, Set of Two",0.000474,1.0,301.21
+"Office Star Rocking Chair, Set of Two","Hewlett Copy Machine, Color, Hon Executive Leather Armchair, Black",0.000474,0.1429,301.21
+"Office Star Rocking Chair, Set of Two","Hewlett Copy Machine, Color, Stanley Sketch Pad, Water Color",0.000474,0.1429,301.21
+"Office Star Rocking Chair, Set of Two","Hon Executive Leather Armchair, Black, Stanley Sketch Pad, Water Color",0.000474,0.1429,301.21
+"Binney & Smith Highlighters, Water Color, Office Star Bag Chairs, Set of Two","Enermax Memory Card, USB",0.000474,1.0,281.13
+"Enermax Memory Card, USB","Binney & Smith Highlighters, Water Color, Office Star Bag Chairs, Set of Two",0.000474,0.1333,281.13
+"Brother Copy Machine, Color, Fellowes Folders, Blue","Tenex Trays, Wire Frame",0.000474,1.0,263.56
+"Tenex Trays, Wire Frame","Brother Copy Machine, Color, Fellowes Folders, Blue",0.000474,0.125,263.56
+"Avery Index Tab, Clear, Ibico Binding Machine, Durable","Stockwell Staples, 12 Pack",0.000474,1.0,248.06
+"Boston Canvas, Easy-Erase, Novimex Bag Chairs, Black","Office Star Rocking Chair, Adjustable",0.000474,1.0,248.06
+"Hewlett Copy Machine, Color, Office Star Rocking Chair, Set of Two","Hon Executive Leather Armchair, Black",0.000474,1.0,248.06
+"Hewlett Copy Machine, Color, Stanley Sketch Pad, Water Color","Hon Executive Leather Armchair, Black",0.000474,1.0,248.06
+"Office Star Rocking Chair, Set of Two, Stanley Sketch Pad, Water Color","Hon Executive Leather Armchair, Black",0.000474,1.0,248.06
+"Stockwell Staples, 12 Pack","Avery Index Tab, Clear, Ibico Binding Machine, Durable",0.000474,0.1176,248.06
+"Office Star Rocking Chair, Adjustable","Boston Canvas, Easy-Erase, Novimex Bag Chairs, Black",0.000474,0.1176,248.06
+"Hon Executive Leather Armchair, Black","Hewlett Copy Machine, Color, Office Star Rocking Chair, Set of Two",0.000474,0.1176,248.06
+"Hon Executive Leather Armchair, Black","Hewlett Copy Machine, Color, Stanley Sketch Pad, Water Color",0.000474,0.1176,248.06
+"Hon Executive Leather Armchair, Black","Office Star Rocking Chair, Set of Two, Stanley Sketch Pad, Water Color",0.000474,0.1176,248.06
+"Stanley Pencil Sharpener, Easy-Erase, Stockwell Thumb Tacks, Metal","Binney & Smith Markers, Blue",0.000474,1.0,234.28
+"Stanley Pencil Sharpener, Easy-Erase, Wilson Jones Binding Machine, Durable","Binney & Smith Markers, Blue",0.000474,1.0,234.28
+"Fellowes File Cart, Wire Frame, Hon File Folder Labels, Alphabetical","Hewlett Copy Machine, Color",0.000474,1.0,234.28
+"Hon Executive Leather Armchair, Black, Office Star Rocking Chair, Set of Two","Hewlett Copy Machine, Color",0.000474,1.0,234.28
+"Hon Executive Leather Armchair, Black, Stanley Sketch Pad, Water Color","Hewlett Copy Machine, Color",0.000474,1.0,234.28
+"Office Star Rocking Chair, Set of Two, Stanley Sketch Pad, Water Color","Hewlett Copy Machine, Color",0.000474,1.0,234.28
+"Binney & Smith Markers, Blue","Stanley Pencil Sharpener, Easy-Erase, Stockwell Thumb Tacks, Metal",0.000474,0.1111,234.28
+"Binney & Smith Markers, Blue","Stanley Pencil Sharpener, Easy-Erase, Wilson Jones Binding Machine, Durable",0.000474,0.1111,234.28
+"Hewlett Copy Machine, Color","Fellowes File Cart, Wire Frame, Hon File Folder Labels, Alphabetical",0.000474,0.1111,234.28
+"Hewlett Copy Machine, Color","Hon Executive Leather Armchair, Black, Office Star Rocking Chair, Set of Two",0.000474,0.1111,234.28
+"Hewlett Copy Machine, Color","Hon Executive Leather Armchair, Black, Stanley Sketch Pad, Water Color",0.000474,0.1111,234.28
+"Hewlett Copy Machine, Color","Office Star Rocking Chair, Set of Two, Stanley Sketch Pad, Water Color",0.000474,0.1111,234.28
+"Hewlett Copy Machine, Color, Hon Executive Leather Armchair, Black","Stanley Sketch Pad, Water Color",0.000474,1.0,221.95
+"Hewlett Copy Machine, Color, Office Star Rocking Chair, Set of Two","Stanley Sketch Pad, Water Color",0.000474,1.0,221.95
+"Hon Executive Leather Armchair, Black, Office Star Rocking Chair, Set of Two","Stanley Sketch Pad, Water Color",0.000474,1.0,221.95
+"Stanley Sketch Pad, Water Color","Hewlett Copy Machine, Color, Hon Executive Leather Armchair, Black",0.000474,0.1053,221.95
+"Stanley Sketch Pad, Water Color","Hewlett Copy Machine, Color, Office Star Rocking Chair, Set of Two",0.000474,0.1053,221.95
+"Stanley Sketch Pad, Water Color","Hon Executive Leather Armchair, Black, Office Star Rocking Chair, Set of Two",0.000474,0.1053,221.95
+"Binney & Smith Markers, Blue, Stockwell Thumb Tacks, Metal","Stanley Pencil Sharpener, Easy-Erase",0.000474,1.0,210.85
+"Binney & Smith Markers, Blue, Wilson Jones Binding Machine, Durable","Stanley Pencil Sharpener, Easy-Erase",0.000474,1.0,210.85
+"Fellowes Folders, Blue, Tenex Trays, Wire Frame","Brother Copy Machine, Color",0.000474,1.0,210.85
+"Fellowes File Cart, Wire Frame, Hewlett Copy Machine, Color","Hon File Folder Labels, Alphabetical",0.000474,1.0,210.85
+"Boston Canvas, Easy-Erase, Office Star Rocking Chair, Adjustable","Novimex Bag Chairs, Black",0.000474,0.6667,187.42
+"Novimex Bag Chairs, Black","Boston Canvas, Easy-Erase, Office Star Rocking Chair, Adjustable",0.000474,0.1333,187.42
+"Brother Copy Machine, Color, Tenex Trays, Wire Frame","Fellowes Folders, Blue",0.000474,1.0,183.35
+"Binney & Smith Markers, Blue, Stanley Pencil Sharpener, Easy-Erase","Stockwell Thumb Tacks, Metal",0.000474,1.0,168.68
+"Binney & Smith Markers, Blue, Wilson Jones Binding Machine, Durable","Stockwell Thumb Tacks, Metal",0.000474,1.0,168.68
+"Novimex Bag Chairs, Black, Office Star Rocking Chair, Adjustable","Boston Canvas, Easy-Erase",0.000474,1.0,168.68
+"Stanley Pencil Sharpener, Easy-Erase, Wilson Jones Binding Machine, Durable","Stockwell Thumb Tacks, Metal",0.000474,1.0,168.68
+"Stockwell Thumb Tacks, Metal, Wilson Jones Binding Machine, Durable","Binney & Smith Markers, Blue",0.000474,0.6667,156.19
+"Binney & Smith Markers, Blue","Stockwell Thumb Tacks, Metal, Wilson Jones Binding Machine, Durable",0.000474,0.1111,156.19
+"Enermax Memory Card, USB, Office Star Bag Chairs, Set of Two","Binney & Smith Highlighters, Water Color",0.000474,1.0,150.61
+"Binney & Smith Markers, Blue, Stanley Pencil Sharpener, Easy-Erase","Wilson Jones Binding Machine, Durable",0.000474,1.0,145.41
+"Binney & Smith Markers, Blue, Stockwell Thumb Tacks, Metal","Wilson Jones Binding Machine, Durable",0.000474,1.0,145.41
+"Hewlett Copy Machine, Color, Hon File Folder Labels, Alphabetical","Fellowes File Cart, Wire Frame",0.000474,1.0,145.41
+"Stanley Pencil Sharpener, Easy-Erase, Stockwell Thumb Tacks, Metal","Wilson Jones Binding Machine, Durable",0.000474,1.0,145.41
+"Stockwell Thumb Tacks, Metal, Wilson Jones Binding Machine, Durable","Stanley Pencil Sharpener, Easy-Erase",0.000474,0.6667,140.57
+"Avery Index Tab, Clear, Stockwell Staples, 12 Pack","Ibico Binding Machine, Durable",0.000474,1.0,124.03
+"Ibico Binding Machine, Durable, Stockwell Staples, 12 Pack","Avery Index Tab, Clear",0.000474,1.0,87.85
+"Apple Office Telephone, with Caller ID","Sharp Copy Machine, Color",0.000711,0.2308,74.86
+"Sharp Copy Machine, Color","Apple Office Telephone, with Caller ID",0.000711,0.2308,74.86
+"Stockwell Clamps, Metal","Cisco Smart Phone, with Caller ID",0.000474,0.1429,66.94
+"Cisco Smart Phone, with Caller ID","Stockwell Clamps, Metal",0.000474,0.2222,66.94
+"OIC Staples, Assorted Sizes","Kraft Clasp Envelope, with clear poly window",0.000711,0.2308,64.88
+"Kraft Clasp Envelope, with clear poly window","OIC Staples, Assorted Sizes",0.000711,0.2,64.88
+"Stiletto Scissors, Easy Grip","Sanford Sketch Pad, Easy-Erase",0.000474,0.1667,58.57
+"Sanford Sketch Pad, Easy-Erase","Stiletto Scissors, Easy Grip",0.000474,0.1667,58.57
+"Jiffy Peel and Seal, with clear poly window","Hon Shipping Labels, Adjustable",0.000474,0.1667,54.06
+"Hon Shipping Labels, Adjustable","Jiffy Peel and Seal, with clear poly window",0.000474,0.1538,54.06
+"Office Star Chairmat, Red","Acco 3-Hole Punch, Recycled",0.000474,0.1667,50.2
+"Acco 3-Hole Punch, Recycled","Office Star Chairmat, Red",0.000474,0.1429,50.2
+"Stanley Canvas, Fluorescent","Harbour Creations Bag Chairs, Black",0.000474,0.1176,49.61
+"Harbour Creations Bag Chairs, Black","Stanley Canvas, Fluorescent",0.000474,0.2,49.61
+"Office Star Bag Chairs, Set of Two","Enermax Memory Card, USB",0.000474,0.1667,46.86
+"Enermax Memory Card, USB","Office Star Bag Chairs, Set of Two",0.000474,0.1333,46.86
+"Samsung Smart Phone, Cordless","Tenex Folders, Wire Frame",0.000474,0.1667,43.93
+"Tenex Folders, Wire Frame","Samsung Smart Phone, Cordless",0.000474,0.125,43.93
+"Hon Rocking Chair, Adjustable","Elite Letter Opener, High Speed",0.000474,0.1429,43.03
+"Elite Letter Opener, High Speed","Hon Rocking Chair, Adjustable",0.000474,0.1429,43.03
+"Tenex File Cart, Industrial","Binney & Smith Pens, Water Color",0.000711,0.1765,39.17
+"Binney & Smith Pens, Water Color","Tenex File Cart, Industrial",0.000711,0.1579,39.17
+"Memorex Memory Card, Erganomic","Cardinal Hole Reinforcements, Durable",0.000474,0.1429,37.65
+"Deflect-O Light Bulb, Erganomic","Green Bar Cards & Envelopes, 8.5 x 11",0.000474,0.1429,37.65
+"Enermax Keyboard, Erganomic","Smead Box, Wire Frame",0.000474,0.1429,37.65
+"Cardinal Hole Reinforcements, Durable","Memorex Memory Card, Erganomic",0.000474,0.125,37.65
+"Green Bar Cards & Envelopes, 8.5 x 11","Deflect-O Light Bulb, Erganomic",0.000474,0.125,37.65
+"Smead Box, Wire Frame","Enermax Keyboard, Erganomic",0.000474,0.125,37.65
+"Apple Office Telephone, with Caller ID","Cardinal Binder, Durable",0.000474,0.1538,36.04
+"Cardinal Binder, Durable","Apple Office Telephone, with Caller ID",0.000474,0.1111,36.04
+"Advantus Light Bulb, Black","BIC Markers, Blue",0.000474,0.1429,35.44
+"Office Star Rocking Chair, Set of Two","Hon Executive Leather Armchair, Black",0.000474,0.1429,35.44
+"BIC Markers, Blue","Advantus Light Bulb, Black",0.000474,0.1176,35.44
+"Hon Executive Leather Armchair, Black","Office Star Rocking Chair, Set of Two",0.000474,0.1176,35.44
+"Cisco Signal Booster, VoIP","Stiletto Letter Opener, Easy Grip",0.000474,0.1667,35.14
+"Safco Library with Doors, Pine","Avery Binding Machine, Recycled",0.000474,0.1818,34.85
+"Acme Letter Opener, Steel","Stanley Sketch Pad, Water Color",0.000474,0.1538,34.15
+"Stanley Sketch Pad, Water Color","Acme Letter Opener, Steel",0.000474,0.1053,34.15
+"Deflect-O Clock, Erganomic","Sanford Sketch Pad, Blue",0.000474,0.1429,33.47
+"Office Star Rocking Chair, Set of Two","Hewlett Copy Machine, Color",0.000474,0.1429,33.47
+"Cisco Signal Booster, with Caller ID","Eldon Trays, Wire Frame",0.000474,0.1667,33.47
+"Sanford Sketch Pad, Blue","Deflect-O Clock, Erganomic",0.000474,0.1111,33.47
+"Hewlett Copy Machine, Color","Office Star Rocking Chair, Set of Two",0.000474,0.1111,33.47
+"Rubbermaid Light Bulb, Erganomic","Deflect-O Door Stop, Black",0.000474,0.1333,33.07
+"Novimex Bag Chairs, Black","Office Star Rocking Chair, Adjustable",0.000474,0.1333,33.07
+"Deflect-O Door Stop, Black","Rubbermaid Light Bulb, Erganomic",0.000474,0.1176,33.07
+"Office Star Rocking Chair, Adjustable","Novimex Bag Chairs, Black",0.000474,0.1176,33.07
+"Cardinal Binding Machine, Durable","Acco Binding Machine, Durable",0.000474,0.1667,31.95
+"Cisco Speaker Phone, VoIP","Elite Shears, Easy Grip",0.000474,0.1429,31.71
+"Harbour Creations Chairmat, Black","Novimex Shipping Labels, 5000 Label Set",0.000474,0.1429,31.71
+"Office Star Rocking Chair, Set of Two","Stanley Sketch Pad, Water Color",0.000474,0.1429,31.71
+"Elite Shears, Easy Grip","Cisco Speaker Phone, VoIP",0.000474,0.1053,31.71
+"Novimex Shipping Labels, 5000 Label Set","Harbour Creations Chairmat, Black",0.000474,0.1053,31.71
+"Stanley Sketch Pad, Water Color","Office Star Rocking Chair, Set of Two",0.000474,0.1053,31.71
+"Eldon Box, Wire Frame","Binney & Smith Canvas, Easy-Erase",0.000474,0.1333,31.24
+"Binney & Smith Canvas, Easy-Erase","Eldon Box, Wire Frame",0.000474,0.1111,31.24
+"Fellowes File Cart, Blue","BIC Canvas, Water Color",0.000474,0.125,31.01
+"BIC Canvas, Water Color","Fellowes File Cart, Blue",0.000474,0.1176,31.01
+"Belkin Router, USB","Stanley Sketch Pad, Easy-Erase",0.000474,0.1538,30.89
+"Novimex Executive Leather Armchair, Adjustable","Ibico Binder, Economy",0.000474,0.1538,30.89
+"Office Star Rocking Chair, Adjustable","Boston Canvas, Easy-Erase",0.000711,0.1765,29.77
+"Boston Canvas, Easy-Erase","Office Star Rocking Chair, Adjustable",0.000711,0.12,29.77
+"Kleencut Trimmer, Steel","Novimex Shipping Labels, 5000 Label Set",0.000474,0.1333,29.59
+"Novimex Shipping Labels, 5000 Label Set","Kleencut Trimmer, Steel",0.000474,0.1053,29.59
+"Rubbermaid Door Stop, Duo Pack","Boston Canvas, Water Color",0.000474,0.1538,29.49
+"Novimex Executive Leather Armchair, Adjustable","Cardinal 3-Hole Punch, Economy",0.000474,0.1538,29.49
+"Cardinal Hole Reinforcements, Durable","Ibico Binder, Clear",0.000474,0.125,29.28
+"Rogers Lockers, Wire Frame","Fellowes Folders, Wire Frame",0.000474,0.125,29.28
+"Ibico Binder, Clear","Cardinal Hole Reinforcements, Durable",0.000474,0.1111,29.28
+"Fellowes Folders, Wire Frame","Rogers Lockers, Wire Frame",0.000474,0.1111,29.28
+"Hon Executive Leather Armchair, Black","SAFCO Steel Folding Chair, Red",0.000474,0.1176,29.18
+"SAFCO Steel Folding Chair, Red","Hon Executive Leather Armchair, Black",0.000474,0.1176,29.18
+"Stanley Highlighters, Easy-Erase","Stockwell Staples, 12 Pack",0.000474,0.1176,29.18
+"Stockwell Staples, 12 Pack","Stanley Highlighters, Easy-Erase",0.000474,0.1176,29.18
+"Apple Speaker Phone, VoIP","Cardinal Binder, Economy",0.000474,0.1818,28.4
+"Belkin Router, USB","Stanley Highlighters, Water Color",0.000474,0.1538,28.21
+"Xerox Memo Slips, 8.5 x 11","Stockwell Thumb Tacks, Metal",0.000474,0.1667,28.11
+"Cisco Smart Phone, with Caller ID","Stockwell Paper Clips, Assorted Sizes",0.000474,0.2222,27.56
+"Sanford Highlighters, Fluorescent","Eldon Shelving, Blue",0.000474,0.1176,27.56
+"Hon Executive Leather Armchair, Black","Hewlett Copy Machine, Color",0.000474,0.1176,27.56
+"Stockwell Paper Clips, Metal","Tenex Trays, Single Width",0.000474,0.1176,27.56
+"Eldon Shelving, Blue","Sanford Highlighters, Fluorescent",0.000474,0.1111,27.56
+"Hewlett Copy Machine, Color","Hon Executive Leather Armchair, Black",0.000474,0.1111,27.56
+"Tenex Trays, Single Width","Stockwell Paper Clips, Metal",0.000474,0.1111,27.56
+"Stiletto Shears, High Speed","Cardinal Binder Covers, Clear",0.000474,0.1429,27.38
+"Harbour Creations Chairmat, Black","Fellowes Trays, Blue",0.000474,0.1429,27.38
+"Hon Chairmat, Set of Two","Ibico 3-Hole Punch, Economy",0.000474,0.1429,27.38
+"Cardinal Binding Machine, Durable","Acco Hole Reinforcements, Clear",0.000474,0.1667,27.03
+"Acco Binder, Durable","Stockwell Staples, Metal",0.000711,0.1154,27.03
+"Stockwell Staples, Metal","Acco Binder, Durable",0.000711,0.1667,27.03
+"Tenex Trays, Wire Frame","Brother Copy Machine, Color",0.000474,0.125,26.36
+"Eldon Trays, Blue","HP Copy Machine, Color",0.000474,0.125,26.36
+"Fiskars Box Cutter, Steel","Stanley Highlighters, Water Color",0.000474,0.1429,26.19
+"Acme Scissors, Serrated","Stanley Sketch Pad, Blue",0.000474,0.1176,26.11
+"Deflect-O Door Stop, Black","Binney & Smith Markers, Water Color",0.000474,0.1176,26.11
+"Boston Highlighters, Blue","Boston Highlighters, Fluorescent",0.000474,0.1176,26.11
+"Ibico 3-Hole Punch, Clear","Boston Markers, Fluorescent",0.000474,0.1176,26.11
+"Hon Executive Leather Armchair, Black","Stanley Sketch Pad, Water Color",0.000474,0.1176,26.11
+"Sanford Highlighters, Fluorescent","Tenex Box, Blue",0.000474,0.1176,26.11
+"Stanley Sketch Pad, Blue","Acme Scissors, Serrated",0.000474,0.1053,26.11
+"Binney & Smith Markers, Water Color","Deflect-O Door Stop, Black",0.000474,0.1053,26.11
+"Boston Highlighters, Fluorescent","Boston Highlighters, Blue",0.000474,0.1053,26.11
+"Boston Markers, Fluorescent","Ibico 3-Hole Punch, Clear",0.000474,0.1053,26.11
+"Stanley Sketch Pad, Water Color","Hon Executive Leather Armchair, Black",0.000474,0.1053,26.11
+"Tenex Box, Blue","Sanford Highlighters, Fluorescent",0.000474,0.1053,26.11
+"Rogers Trays, Industrial","Ames Business Envelopes, Recycled",0.000474,0.1111,26.03
+"Ames Business Envelopes, Recycled","Rogers Trays, Industrial",0.000474,0.1111,26.03
+"Hon Chairmat, Red","Avery Binder Covers, Recycled",0.000474,0.1538,25.95
+"Novimex Executive Leather Armchair, Adjustable","Stockwell Push Pins, 12 Pack",0.000474,0.1538,25.95
+"Acco Binding Machine, Recycled","Acco Binder, Clear",0.000711,0.1579,25.61
+"Acco Binder, Clear","Acco Binding Machine, Recycled",0.000711,0.1154,25.61
+"Avery Hole Reinforcements, Clear","Ibico 3-Hole Punch, Economy",0.000474,0.1333,25.56
+"Sanford Sketch Pad, Easy-Erase","BIC Markers, Easy-Erase",0.000474,0.1667,25.1
+"Office Star Bag Chairs, Set of Two","Binney & Smith Highlighters, Water Color",0.000474,0.1667,25.1
+"Rogers Folders, Blue","Tenex Trays, Industrial",0.000474,0.125,25.1
+"SAFCO Executive Leather Armchair, Black","Rogers Lockers, Blue",0.000474,0.1538,24.95
+"BIC Markers, Fluorescent","BIC Pens, Easy-Erase",0.000474,0.1176,24.81
+"BIC Pencil Sharpener, Fluorescent","Binney & Smith Markers, Fluorescent",0.000474,0.1176,24.81
+"SanDisk Parchment Paper, Multicolor","Fellowes Trays, Industrial",0.000474,0.1176,24.81
+"Hon Round Labels, Laser Printer Compatible","Wilson Jones 3-Hole Punch, Economy",0.000474,0.1176,24.81
+"Hewlett Copy Machine, Color","Stanley Sketch Pad, Water Color",0.000474,0.1111,24.66
+"Stanley Sketch Pad, Water Color","Hewlett Copy Machine, Color",0.000474,0.1053,24.66
+"Harbour Creations Legal Exhibit Labels, Laser Printer Compatible","Cardinal Hole Reinforcements, Economy",0.000474,0.1333,24.45
+"Cisco Smart Phone, Full Size","Boston Canvas, Water Color",0.000474,0.125,23.96
+"Boston Markers, Water Color","Stanley Sketch Pad, Fluorescent",0.000474,0.125,23.96
+"OIC Clamps, Bulk Pack","Hon Executive Leather Armchair, Adjustable",0.000474,0.125,23.96
+"Avery Hole Reinforcements, Clear","Ibico Index Tab, Economy",0.000474,0.1333,23.43
+"Binney & Smith Markers, Blue","Stanley Pencil Sharpener, Easy-Erase",0.000474,0.1111,23.43
+"Hewlett Copy Machine, Color","Hon File Folder Labels, Alphabetical",0.000474,0.1111,23.43
+"Tenex Box, Blue","Binney & Smith Pens, Fluorescent",0.000474,0.1053,23.36
+"Binney & Smith Pens, Fluorescent","Tenex Box, Blue",0.000474,0.1053,23.36
+"Cardinal Binder, Clear","Sanford Canvas, Water Color",0.000474,0.1053,23.36
+"Sanford Canvas, Water Color","Cardinal Binder, Clear",0.000474,0.1053,23.36
+"Stockwell Push Pins, Metal","Novimex Shipping Labels, 5000 Label Set",0.000474,0.1053,23.36
+"Novimex Shipping Labels, 5000 Label Set","Stockwell Push Pins, Metal",0.000474,0.1053,23.36
+"Rubbermaid Door Stop, Duo Pack","Binney & Smith Pencil Sharpener, Water Color",0.000474,0.1538,23.17
+"Harbour Creations Rocking Chair, Adjustable","Rogers Box, Blue",0.000474,0.1429,23.17
+"Office Star Swivel Stool, Red","Sanford Pens, Fluorescent",0.000474,0.1429,23.17
+"Smead File Cart, Industrial","Rogers Lockers, Blue",0.000711,0.1429,23.17
+"Rogers Lockers, Blue","Smead File Cart, Industrial",0.000711,0.1154,23.17
+"Binney & Smith Pencil Sharpener, Easy-Erase","Smead Lockers, Industrial",0.000474,0.125,22.92
+"Rogers Shelving, Single Width","Enermax Numeric Keypad, Bluetooth",0.000474,0.125,22.92
+"Tenex Trays, Wire Frame","Fellowes Folders, Blue",0.000474,0.125,22.92
+"Sanford Pencil Sharpener, Fluorescent","Ibico Binder Covers, Economy",0.000474,0.125,22.92
+"Fellowes Box, Industrial","Acco 3-Hole Punch, Clear",0.000474,0.1176,22.55
+"BIC Markers, Blue","Boston Markers, Blue",0.000474,0.1176,22.55
+"Boston Highlighters, Blue","Stockwell Clamps, Assorted Sizes",0.000474,0.1176,22.55
+"Novimex Bag Chairs, Adjustable","Stanley Sketch Pad, Fluorescent",0.000474,0.1176,22.55
+"SanDisk Parchment Paper, Multicolor","Tenex Lockers, Industrial",0.000474,0.1176,22.55
+"Wilson Jones Binding Machine, Clear","Stanley Canvas, Easy-Erase",0.000474,0.1176,22.55
+"Wilson Jones Binding Machine, Clear","Stanley Pencil Sharpener, Fluorescent",0.000474,0.1176,22.55
+"Novimex Bag Chairs, Black","Boston Canvas, Easy-Erase",0.000474,0.1333,22.49
+"Enermax Keyboard, Erganomic","Boston Highlighters, Easy-Erase",0.000474,0.1429,22.31
+"Hon Steel Folding Chair, Adjustable","Stockwell Staples, Assorted Sizes",0.000474,0.1429,22.31
+"Cardinal Index Tab, Durable","Eldon Trays, Industrial",0.000474,0.1111,22.31
+"Samsung Audio Dock, Cordless","Sanford Canvas, Fluorescent",0.000474,0.1111,22.31
+"BIC Canvas, Blue","Eldon File Cart, Industrial",0.000474,0.1053,22.19
+"Binney & Smith Markers, Water Color","Tenex Shelving, Single Width",0.000474,0.1053,22.19
+"Binney & Smith Pens, Fluorescent","Rogers Shelving, Blue",0.000474,0.1053,22.19
+"Boston Sketch Pad, Water Color","Wilson Jones 3-Hole Punch, Clear",0.000474,0.1053,22.19
+"Stanley Sketch Pad, Water Color","Fellowes Box, Single Width",0.000474,0.1053,22.19
+"Rogers Box, Single Width","HP Copy Machine, Color",0.000474,0.1053,22.19
+"Novimex Removable Labels, Adjustable","Hon Swivel Stool, Black",0.000474,0.125,21.96
+"Acco Binder Covers, Durable","Sanford Markers, Easy-Erase",0.000474,0.1176,21.57
+"Green Bar Cards & Envelopes, Multicolor","Binney & Smith Pens, Blue",0.000474,0.1176,21.57
+"Apple Headset, Cordless","Avery 3-Hole Punch, Recycled",0.000474,0.1429,21.52
+"Apple Office Telephone, Cordless","Avery 3-Hole Punch, Recycled",0.000474,0.1429,21.52
+"Jiffy Peel and Seal, with clear poly window","Ibico Binder Covers, Clear",0.000474,0.1667,21.3
+"Acco Hole Reinforcements, Economy","Bush Stackable Bookrack, Pine",0.000474,0.1111,21.3
+"BIC Pencil Sharpener, Easy-Erase","Stockwell Clamps, Assorted Sizes",0.000474,0.1111,21.3
+"Sanford Sketch Pad, Blue","Dania Stackable Bookrack, Pine",0.000474,0.1111,21.3
+"Rogers Folders, Industrial","Eldon Folders, Blue",0.000474,0.1111,21.3
+"Eldon Lockers, Industrial","Rogers Shelving, Industrial",0.000474,0.1111,21.3
+"Boston Markers, Fluorescent","Eldon Trays, Industrial",0.000474,0.1053,21.14
+"Boston Markers, Fluorescent","Sanford Pens, Easy-Erase",0.000474,0.1053,21.14
+"SAFCO Chairmat, Adjustable","Ibico Binder, Economy",0.000474,0.1053,21.14
+"Office Star Rocking Chair, Black","Acco 3-Hole Punch, Economy",0.000474,0.125,21.08
+"Smead Removable Labels, Adjustable","Acco 3-Hole Punch, Economy",0.000474,0.125,21.08
+"Cardinal Hole Reinforcements, Durable","Acco Hole Reinforcements, Recycled",0.000474,0.125,21.08
+"Ibico Binder Covers, Durable","Sanford Markers, Water Color",0.000474,0.125,21.08
+"Ames Peel and Seal, Recycled","Boston Pencil Sharpener, Water Color",0.000474,0.1538,20.93
+"Harbour Creations Swivel Stool, Adjustable","Cardinal Index Tab, Clear",0.000474,0.2222,20.82
+"Stiletto Scissors, Steel","Wilson Jones Binder Covers, Durable",0.000474,0.1333,20.82
+"Acco 3-Hole Punch, Recycled","Fellowes File Cart, Wire Frame",0.000474,0.1429,20.77
+"Sanford Sketch Pad, Water Color","Apple Smart Phone, Full Size",0.000474,0.1429,20.77
+"Fellowes Box, Blue","Green Bar Note Cards, Premium",0.000474,0.1176,20.67
+"Hon Executive Leather Armchair, Black","Ibico Index Tab, Economy",0.000474,0.1176,20.67
+"Avery Binder Covers, Durable","Avery Binding Machine, Durable",0.000474,0.1111,20.37
+"Rogers Folders, Industrial","Cardinal Hole Reinforcements, Recycled",0.000474,0.1111,20.37
+"BIC Pens, Blue","Smead Lockers, Single Width",0.000474,0.125,20.27
+"OIC Clamps, Bulk Pack","Rogers Lockers, Blue",0.000474,0.125,20.27
+"Stanley Sketch Pad, Blue","Acco 3-Hole Punch, Clear",0.000474,0.1053,20.18
+"Boston Highlighters, Fluorescent","Acco Binder Covers, Economy",0.000474,0.1053,20.18
+"Boston Sketch Pad, Water Color","Wilson Jones 3-Hole Punch, Recycled",0.000474,0.1053,20.18
+"Fellowes Folders, Industrial","Harbour Creations Executive Leather Armchair, Adjustable",0.000474,0.1053,20.18
+"Stockwell Paper Clips, Bulk Pack","Stanley Pencil Sharpener, Fluorescent",0.000474,0.1053,20.18
+"Stockwell Clamps, Metal","Wilson Jones Binding Machine, Economy",0.000474,0.1429,20.08
+"Enermax Memory Card, USB","Binney & Smith Highlighters, Water Color",0.000474,0.1333,20.08
+"Hewlett Copy Machine, Color","Ibico Index Tab, Economy",0.000474,0.1111,19.52
+"Ibico Binder, Clear","Ibico Hole Reinforcements, Recycled",0.000474,0.1111,19.52
+"Eldon Lockers, Blue","Apple Smart Phone, Full Size",0.000474,0.1333,19.39
+"Acco 3-Hole Punch, Durable","Avery Binder, Economy",0.000474,0.1053,19.3
+"Avery Binder, Durable","Fellowes Lockers, Wire Frame",0.000474,0.1053,19.3
+"Sanford Highlighters, Easy-Erase","Binney & Smith Pens, Blue",0.000474,0.1053,19.3
+"Ibico 3-Hole Punch, Durable","Smead Lockers, Blue",0.000474,0.1053,19.3
+"Rogers Box, Industrial","Stanley Highlighters, Water Color",0.000474,0.1053,19.3
+"Avery Binding Machine, Recycled","Smead Shelving, Blue",0.000711,0.1364,19.17
+"Smead Shelving, Blue","Avery Binding Machine, Recycled",0.000711,0.1,19.17
+"Kleencut Shears, Serrated","Smead Lockers, Single Width",0.000474,0.1176,19.08
+"Rogers Lockers, Wire Frame","Tenex Shelving, Wire Frame",0.000474,0.125,18.83
+"Acco Hole Reinforcements, Durable","Ibico Hole Reinforcements, Economy",0.000474,0.1111,18.74
+"Eldon Shelving, Blue","Avery Binding Machine, Clear",0.000474,0.1111,18.74
+"Binney & Smith Markers, Blue","Stockwell Thumb Tacks, Metal",0.000474,0.1111,18.74
+"Tenex File Cart, Blue","Cardinal Binding Machine, Recycled",0.000474,0.1111,18.74
+"Samsung Audio Dock, Cordless","Stockwell Push Pins, 12 Pack",0.000474,0.1111,18.74
+"BIC Markers, Fluorescent","Wilson Jones 3-Hole Punch, Durable",0.000474,0.1176,18.37
+"Apple Headset, Cordless","Sanford Pencil Sharpener, Easy-Erase",0.000474,0.1429,18.26
+"Acco 3-Hole Punch, Durable","Ibico Binding Machine, Recycled",0.000474,0.1053,17.76
+"Boston Markers, Fluorescent","Ibico Hole Reinforcements, Economy",0.000474,0.1053,17.76
+"Stanley Pens, Water Color","Ibico Hole Reinforcements, Economy",0.000474,0.1053,17.76
+"Sanford Highlighters, Easy-Erase","Sanford Markers, Water Color",0.000474,0.1053,17.76
+"BIC Pencil Sharpener, Fluorescent","Binney & Smith Pencil Sharpener, Water Color",0.000474,0.1176,17.72
+"Stockwell Thumb Tacks, Metal","Wilson Jones Binding Machine, Durable",0.000711,0.12,17.45
+"Wilson Jones Binding Machine, Durable","Stockwell Thumb Tacks, Metal",0.000711,0.1034,17.45
+"Rogers Lockers, Blue","Sanford Canvas, Blue",0.000711,0.1154,17.38
+"Sanford Canvas, Blue","Rogers Lockers, Blue",0.000711,0.1071,17.38
+"Acco Hole Reinforcements, Durable","Rogers File Cart, Industrial",0.000474,0.1111,17.35
+"Rogers Folders, Industrial","Rogers File Cart, Industrial",0.000474,0.1111,17.35
+"Sanford Highlighters, Fluorescent","Acco Binder Covers, Clear",0.000474,0.1176,17.11
+"Kleencut Shears, Serrated","Wilson Jones Index Tab, Clear",0.000474,0.1176,17.11
+"Acco Binding Machine, Recycled","Fellowes File Cart, Single Width",0.000474,0.1053,17.07
+"Binney & Smith Markers, Water Color","Wilson Jones Binding Machine, Recycled",0.000474,0.1053,17.07
+"Binney & Smith Pens, Fluorescent","Smead Lockers, Single Width",0.000474,0.1053,17.07
+"Cameo Clasp Envelope, Security-Tint","Rogers Lockers, Blue",0.000474,0.1053,17.07
+"Office Star Steel Folding Chair, Red","Sanford Pens, Fluorescent",0.000474,0.1053,17.07
+"Sanford Highlighters, Easy-Erase","Stockwell Thumb Tacks, Bulk Pack",0.000474,0.1053,17.07
+"Sanford Highlighters, Easy-Erase","Wilson Jones Binding Machine, Recycled",0.000474,0.1053,17.07
+"Hewlett Copy Machine, Color","Tenex Shelving, Wire Frame",0.000474,0.1111,16.73
+"Binney & Smith Pencil Sharpener, Fluorescent","Acco Index Tab, Clear",0.000474,0.1333,16.54
+"Sharp Copy Machine, Laser","Acco Index Tab, Clear",0.000474,0.1333,16.54
+"Tenex Box, Wire Frame","Smead Shelving, Blue",0.000474,0.1176,16.54
+"Boston Highlighters, Fluorescent","Boston Highlighters, Easy-Erase",0.000474,0.1053,16.44
+"Elite Shears, Easy Grip","Rogers File Cart, Industrial",0.000474,0.1053,16.44
+"Fellowes Folders, Industrial","Wilson Jones 3-Hole Punch, Durable",0.000474,0.1053,16.44
+"Boston Highlighters, Fluorescent","Smead File Cart, Single Width",0.000711,0.1579,16.24
+"Fellowes Trays, Single Width","BIC Canvas, Fluorescent",0.000474,0.1111,16.16
+"Binney & Smith Markers, Blue","Wilson Jones Binding Machine, Durable",0.000474,0.1111,16.16
+"Hewlett Copy Machine, Color","Fellowes File Cart, Wire Frame",0.000474,0.1111,16.16
+"Memorex Numeric Keypad, Erganomic","Fellowes File Cart, Wire Frame",0.000474,0.1111,16.16
+"Ames Manila Envelope, Security-Tint","Avery Index Tab, Clear",0.000474,0.1818,15.97
+"Cardinal Binder Covers, Recycled","Ibico Binder Covers, Clear",0.000711,0.125,15.97
+"Smead Box, Wire Frame","Ibico Binder Covers, Clear",0.000474,0.125,15.97
+"Stanley Sketch Pad, Water Color","Avery 3-Hole Punch, Recycled",0.000474,0.1053,15.85
+"Tenex Trays, Blue","Acco Index Tab, Clear",0.000711,0.125,15.5
+"Binney & Smith Sketch Pad, Water Color","Cardinal Binder Covers, Economy",0.000474,0.1111,15.11
+"Stockwell Staples, Metal","Eldon Box, Industrial",0.000474,0.1111,15.11
+"Stockwell Paper Clips, Bulk Pack","Wilson Jones Hole Reinforcements, Recycled",0.000474,0.1053,14.8
+"Stockwell Staples, 12 Pack","Ibico Binding Machine, Durable",0.000474,0.1176,14.59
+"Samsung Signal Booster, Cordless","Stockwell Paper Clips, Assorted Sizes",0.000474,0.1176,14.59
+"Stockwell Staples, Metal","Stanley Pencil Sharpener, Water Color",0.000711,0.1667,14.34
+"Ibico 3-Hole Punch, Recycled","Eldon Box, Industrial",0.000474,0.1053,14.32
+"Sanford Sketch Pad, Blue","Acco Index Tab, Clear",0.000474,0.1111,13.78
+"Avery 3-Hole Punch, Recycled","Sanford Pencil Sharpener, Easy-Erase",0.000711,0.1071,13.69
+"Boston Markers, Fluorescent","Tenex File Cart, Single Width",0.000474,0.1053,13.45
+"Enermax Keyboard, Programmable","Ibico Index Tab, Clear",0.000474,0.1429,12.29
+"Stanley Sketch Pad, Easy-Erase","Eldon File Cart, Single Width",0.000711,0.1429,11.16
+"Binney & Smith Markers, Water Color","Smead File Cart, Single Width",0.000474,0.1053,10.83
+"Sauder Floating Shelf Set, Pine","Stanley Pencil Sharpener, Water Color",0.000474,0.125,10.76
+"Tenex Trays, Single Width","Cardinal Index Tab, Clear",0.000474,0.1111,10.41
+"Binney & Smith Pencil Sharpener, Easy-Erase","Rogers File Cart, Single Width",0.000474,0.125,10.34
+"Stockwell Staples, 12 Pack","Avery Index Tab, Clear",0.000474,0.1176,10.34
+"BIC Pencil Sharpener, Fluorescent","Stanley Pencil Sharpener, Water Color",0.000474,0.1176,10.12
+"BIC Highlighters, Easy-Erase","Eldon File Cart, Single Width",0.000474,0.125,9.76
+"Cardinal 3-Hole Punch, Clear","Avery Index Tab, Clear",0.000474,0.1111,9.76
+"Acco Hole Reinforcements, Durable","Ibico Index Tab, Clear",0.000474,0.1111,9.56
+"Eldon Trays, Single Width","Stanley Pencil Sharpener, Water Color",0.000474,0.1111,9.56
+"Novimex Swivel Stool, Adjustable","Avery Index Tab, Clear",0.000474,0.1053,9.25
+"Eldon Shelving, Blue","Rogers File Cart, Single Width",0.000474,0.1111,9.19
+"Rogers Folders, Industrial","Rogers File Cart, Single Width",0.000474,0.1111,9.19
+"Rogers Trays, Industrial","Rogers File Cart, Single Width",0.000474,0.1111,9.19
+"Binney & Smith Pens, Fluorescent","Stanley Pencil Sharpener, Water Color",0.000474,0.1053,9.06
