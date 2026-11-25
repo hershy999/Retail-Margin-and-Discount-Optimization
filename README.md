@@ -86,8 +86,6 @@ Outputs filtered association rules to `data/processed/association_rules.csv`.
 
 ```
 Retail Margin DA Project/
-├── AGENTS.md                          # Coding guidelines & engineering standards
-├── IMPLEMENTATION_PLAN.md             # 7-phase execution roadmap
 ├── README.md                          # Project documentation and quickstart
 ├── requirements.txt                   # Python dependencies
 ├── .env                               # Database credentials (ignored in git)
@@ -99,14 +97,6 @@ Retail Margin DA Project/
 │   ├── raw/                           # Verified byte-for-byte copy
 │   ├── processed/                     # superstore_cleaned.csv, association_rules.csv
 │   └── rejected/                      # rejected_records.csv (if any)
-│
-├── docs/                              # Supporting documentation
-│   ├── data_quality_report.md         # Schema, nulls, distributions, decisions
-│   ├── data_dictionary.md             # Column constraints and definitions
-│   ├── methodology.md                 # End-to-end architecture & equations
-│   ├── sql_analysis.md                # SQL business analysis findings
-│   ├── market_basket_analysis.md      # Apriori rules interpretation
-│   └── dashboard_guide.md             # Power BI layout & DAX measures guide
 │
 ├── notebooks/                         # Interactive Jupyter notebooks
 │   ├── 01_data_exploration.ipynb      # Phase 1 dataset profiling
